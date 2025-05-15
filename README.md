@@ -3,9 +3,7 @@ Código para projetar a imagem térmica da câmera AMG8833 no visor gráfico do 
 
 # Itens utilizados no projeto
   - Câmera Térmica AMG8833
-    ![Captura de tela 2025-05-15 185836](https://github.com/user-attachments/assets/9b8137c9-a580-4660-a753-5a948ca1deee)
   - ESP32
-    ![156519c3ae](https://github.com/user-attachments/assets/4521b428-7088-46c2-92b4-04939fb6df88)
   - Arduino IDE
   - <a href="https://github.com/JaapDanielse/VirtualPanel">VirtualPanel</a>
 # Sobre o Projeto:
