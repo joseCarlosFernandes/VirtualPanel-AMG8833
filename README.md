@@ -5,7 +5,7 @@ Código para projetar a imagem térmica da câmera AMG8833 no visor gráfico do 
   - Câmera Térmica AMG8833
   - ESP32
   - Arduino IDE
-  - <a href="https://github.com/JaapDanielse/VirtualPanel">VirtualPanel</a>
+  - <a href="https://github.com/JaapDanielse/VirtualPanel">Programa VirtualPanel</a>
 # Sobre o Projeto:
 O Virtual Panel se trata de uma caixa de ferramentas da interface para Arduino para controle e exibição de experimentos. Permitindo a exibição de imagens sem a necessidade de um display físico.
 
